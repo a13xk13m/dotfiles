@@ -1,0 +1,11 @@
+[user]
+	name = "Alex Klementovich"
+	email = "a13k13m@gmail.com"
+[alias]
+	s = status
+	c = commit
+	cm = "commit -m"
+	ca = "commit --amend"
+	p = push
+	aa = "add *"
+	a = add
